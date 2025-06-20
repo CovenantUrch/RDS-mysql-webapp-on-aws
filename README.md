@@ -4,6 +4,9 @@ This project sets up a simple web application that connects to a MySQL database 
 
 ---
 At the end of this lab, your architecture will look like the following example:
+ <br/>
+<img src="creating rds database.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 ---
 <h2>✅ What You’ll Build</h2>
 
